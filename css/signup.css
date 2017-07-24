@@ -1,0 +1,23 @@
+body{
+  background-color: #e9edf3;
+}
+
+h1{
+  color: #c10026;
+}
+
+#signupform{
+  background-color: white;
+  padding-top: 5%;
+  padding-bottom: 6%;
+}
+
+#subutton{
+  color: white;
+  background-color: #c10026;
+}
+
+#subutton:hover {
+    background-color: lightgray;
+    color: #c10026;
+}

@@ -14,7 +14,7 @@
     </div> <!-- End Navbar Header -->
 
     <!-- Searchbar -->
-    <input type="text" name="search" placeholder="Faça aqui sua busca" id = "searchbar">
+    <input type="search" name="search" placeholder="Faça aqui sua busca" id = "searchbar">
 
     <div class = "collapse navbar-collapse" id = "navbar-collapse">
 

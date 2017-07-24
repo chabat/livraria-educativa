@@ -1,0 +1,2 @@
+//loggar e entrar no postgres
+sudo -u postgres psql
